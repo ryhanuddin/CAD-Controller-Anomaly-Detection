@@ -1,0 +1,3 @@
+- CAD diagnoses controller-state degradation, not only visible traffic flooding.
+- Traffic-based tools mainly observe flow statistics, packet rates, and congestion symptoms.
+- CAD uses OpenFlow control-plane behavior such as Packet-In, Packet-Out, Flow-Mod, multipart messages, reset flags, priority changes, and timeout patterns.

@@ -1,0 +1,8 @@
+- Packet delivery ratio
+- Flow-rule installation delay
+- IoT telemetry outage duration
+- Application-level packet loss
+- End-to-end latency
+- Recovery time after anomaly alert
+- Packet reception rate
+- Flow bandwidth

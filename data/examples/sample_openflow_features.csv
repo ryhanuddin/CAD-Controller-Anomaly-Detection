@@ -1,0 +1,3 @@
+src.ip,dst.ip,packet.type,Packet_type_details,Openflow_stat_details,reset.flag,flowmod.priority,idle.timeout,hard.timeout,more.fragment,ip.fragment.count,tcp.analysis.out.of_order,IP.flags,dont.fragment,TCP.flags,TCP.flags.reset,connection.reset
+10.0.0.1,10.0.0.2,10,OFPT_PACKET_IN,OFPST_FLOW,0,100,30,60,0,0,0,0,1,0,0,0
+10.0.0.2,10.0.0.1,13,OFPT_PACKET_OUT,OFPST_PORT,0,100,30,60,0,0,0,0,1,0,0,0

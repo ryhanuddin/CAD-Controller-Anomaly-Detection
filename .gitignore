@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.pcap
+*.pcapng
+results/model_outputs/*.joblib
+results/figures/*.png
+results/tables/*.csv
+!data/processed/controller_identification_dataset_extended.csv
